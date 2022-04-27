@@ -24,5 +24,9 @@
   "bugs": {
     "url": "https://github.com/Mathss18/react-favicon-notification/issues"
   },
-  "homepage": "https://github.com/Mathss18/react-favicon-notification"
+  "homepage": "https://github.com/Mathss18/react-favicon-notification",
+  "peerDependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
 }
