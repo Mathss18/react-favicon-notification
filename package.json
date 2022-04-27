@@ -1,0 +1,28 @@
+{
+  "name": "react-favicon-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mathss18/react-favicon-notification.git"
+  },
+  "keywords": [
+    "tab",
+    "favicon",
+    "notification",
+    "react",
+    "react-favicon-notification",
+    "title",
+    "counter"
+  ],
+  "author": "Matheus Bezerra Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathss18/react-favicon-notification/issues"
+  },
+  "homepage": "https://github.com/Mathss18/react-favicon-notification"
+}
