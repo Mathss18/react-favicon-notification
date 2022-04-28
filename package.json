@@ -1,10 +1,16 @@
 {
   "name": "react-favicon-notification",
-  "version": "1.0.0",
+  "version": "1.0.21",
+  "source": "src/index.js",
+  "main": "build/index.js",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/FaviconNotificationContext.jsx",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepub": "copy package.json build",
+    "pub": "cd build & npm publish",
+    "postpub": "cd build & del package.json"
   },
   "repository": {
     "type": "git",
