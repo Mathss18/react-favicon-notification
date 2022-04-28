@@ -1,6 +1,6 @@
 {
   "name": "react-favicon-notification",
-  "version": "1.0.21",
+  "version": "1.0.23",
   "source": "src/index.js",
   "main": "build/index.js",
   "description": "",
